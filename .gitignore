@@ -1,0 +1,12 @@
+# Ignore accidental local clutter — never commit secrets or source dumps
+.DS_Store
+.env
+.env.*
+*.pem
+*.p12
+*.mobileprovision
+*.key
+node_modules/
+www/
+_site/
+*.log

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" role="img" aria-label="Stack app icon">
+  <defs>
+    <linearGradient id="bg" x1="256" y1="0" x2="256" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#171a33"/>
+      <stop offset="100%" stop-color="#0a0b18"/>
+    </linearGradient>
+    <linearGradient id="block-top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="block-shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+
+  <g filter="url(#block-shadow)">
+    <rect x="206" y="118" width="100" height="44" rx="8" fill="#7dd3fc"/>
+    <rect x="194" y="174" width="124" height="44" rx="8" fill="#4ade80"/>
+    <rect x="181" y="230" width="150" height="44" rx="8" fill="#ffd166"/>
+    <rect x="169" y="286" width="174" height="44" rx="8" fill="#fb923c"/>
+    <rect x="156" y="342" width="200" height="44" rx="8" fill="#f43f5e"/>
+  </g>
+  <g opacity="0.55">
+    <rect x="206" y="118" width="100" height="16" rx="8" fill="url(#block-top)"/>
+    <rect x="194" y="174" width="124" height="16" rx="8" fill="url(#block-top)"/>
+    <rect x="181" y="230" width="150" height="16" rx="8" fill="url(#block-top)"/>
+    <rect x="169" y="286" width="174" height="16" rx="8" fill="url(#block-top)"/>
+    <rect x="156" y="342" width="200" height="16" rx="8" fill="url(#block-top)"/>
+  </g>
+</svg>

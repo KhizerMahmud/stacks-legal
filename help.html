@@ -3,6 +3,12 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="referrer" content="no-referrer" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self'; style-src 'unsafe-inline'; font-src 'none'; script-src 'none'; connect-src 'none'; object-src 'none'; media-src 'none'; worker-src 'none'; manifest-src 'none'" />
+<meta name="robots" content="index,follow" />
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+<link rel="icon" href="assets/favicon.png" type="image/png" sizes="40x40" />
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
 <title>Help — Stack.</title>
 <style>
   :root { color-scheme: dark; }
@@ -28,10 +34,24 @@
     margin: 12px 0;
   }
   .muted { color: rgba(226, 232, 240, 0.65); font-size: 0.92rem; }
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 8px;
+  }
+  .brand img {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+  }
 </style>
 </head>
 <body>
-  <h1>Stack. — Help &amp; Support</h1>
+  <div class="brand">
+    <img src="assets/icon.svg" width="40" height="40" alt="Stack. app icon" />
+    <h1 style="margin:0">Stack. — Help &amp; Support</h1>
+  </div>
   <p class="muted">Quick answers for gameplay, purchases, ads, and account data. Last updated: July 2026.</p>
 
   <div class="card">
