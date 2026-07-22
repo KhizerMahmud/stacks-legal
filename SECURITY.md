@@ -5,7 +5,7 @@ This repository publishes static App Store legal pages only.
 ## What is public (by design)
 
 - Privacy policy, support, and help HTML
-- Stack. app icon assets used as favicons
+- Stacks. app icon assets used as favicons
 
 ## What is never stored here
 
@@ -21,4 +21,4 @@ This repository publishes static App Store legal pages only.
 - Content-Security-Policy blocks scripts, network calls, framing, and forms
 - Links stay within this site (plus mailto and Google’s public privacy policy)
 
-If you find a security issue with these pages, email **support@khizermahmud.com**.
+If you find a security issue with these pages, email **stacks.support@gmail.com**.
