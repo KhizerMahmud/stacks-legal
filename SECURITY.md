@@ -5,7 +5,7 @@ This repository publishes static App Store legal pages only.
 ## What is public (by design)
 
 - Privacy policy, support, and help HTML
-- Stack. app icon assets used as favicons
+- Stacks. app icon assets used as favicons
 
 ## What is never stored here
 

@@ -1,6 +1,6 @@
-# Stack. legal pages
+# Stacks. legal pages
 
-Public privacy, support, and help pages for the **Stack.** iOS app.
+Public privacy, support, and help pages for the **Stacks.** iOS app.
 
 This repository contains **only** static legal/support HTML and the app icon. It does **not** contain game source code, API keys, certificates, or any private project files.
 
