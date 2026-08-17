@@ -6,9 +6,9 @@ This repository contains **only** static legal/support HTML and the app icon. It
 
 ## Live pages
 
-- [Privacy Policy](https://khizermahmud.github.io/stack-legal/privacy.html)
-- [Support](https://khizermahmud.github.io/stack-legal/support.html)
-- [Help & FAQ](https://khizermahmud.github.io/stack-legal/help.html)
+- [Privacy Policy](https://khizermahmud.github.io/stacks-legal/privacy.html)
+- [Support](https://khizermahmud.github.io/stacks-legal/support.html)
+- [Help & FAQ](https://khizermahmud.github.io/stacks-legal/help.html)
 
 ## Contact
 
