@@ -12,4 +12,4 @@ This repository contains **only** static legal/support HTML and the app icon. It
 
 ## Contact
 
-support@khizermahmud.com
+stacks.support@gmail.com
